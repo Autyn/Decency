@@ -1,4 +1,4 @@
 {
 "stable_version": "1.00",
-"body": "#Changelog\n\n-Added Twerk\n-Deleted Crosshair\n-timer+ and - sets in 1 button\n-PlayerEsp & Tracers is now RGB\n-Added AirAura settings\n-Added 1.1.X Mode for HitBox\n-Small Fix TopAura\n-Added .fmode command\n-Added second flight mode\n-VisRoad is now AirWalk\n-Added Elytra spoof\n-Added .upd command\n-Added UpdateManager\n-Small fix AntiAfk\n-Added FastEat\n-Added FastFall\n-Added HPView\n-Deleted Nuker \n"
+"body": "#Changelog\n\n-Added Twerk\n\n-Deleted Crosshair\n\n-timer sets in 1 button\n-\nPlayerEsp & Tracers is now RGB\n-\nAdded AirAura settings\n-\nAdded 1.1.X Mode for HitBox\n-\nSmall Fix TopAura\n-\nAdded .fmode command\n-\nAdded second flight mode\n-\nVisRoad is now AirWalk\n-мAdded Elytra spoof\n-\nAdded .upd command\n-\nAdded UpdateManager\n-\nSmall fix AntiAfk\n-\nAdded FastEat\n-мAdded FastFall\n-\nAdded HPView\n-\nDeleted Nuker \n"
 }
