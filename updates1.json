@@ -1,5 +1,5 @@
 {
-"stable_version": " 1.00",
+"stable_version": "1.00",
 "changelog": "###ChangeLogs###\n\n\n",
 "body": "v1.00 \n\n\n -Added Twerk\n\n -Deleted Crosshair\n\n -Small fix logs\n\n -Added error.yml file\n\n -Deleted config.cfg file \n\n -Timer now in 1 button\n\n -PlayerEsp & Tracers now RGB\n\n -Added AirAura settings\n\n -Added 1.1.X Mode for HitBox\n\n -Small Fix TopAura\n\n -Added .fmode command\n\n -Added second flight mode\n\n -VisRoad is now AirWalk\n\n -Added Elytra spoof\n\n -Added .upd command\n\n -Added UpdateManager\n\n -Small fix AntiAfk\n\n -Added FastEat\n\n -Added FastFall\n\n -Added HPView\n\n -Deleted Nuker \n"
 }
