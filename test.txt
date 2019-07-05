@@ -1,0 +1,3 @@
+{
+ mod: "var Btn; var ctx = com.mojang.minecraftpe.MainActivity.currentMainActivity.get(); function btn() { ctx.runOnUiThread(new java.lang.Runnable({ run: function () { try { let layout = new android.widget.LinearLayout(ctx); layout.setOrientation(1); let menuBtn = new android.widget.Button(ctx); menuBtn.setText("<pw>"); layout.addView(menuBtn); Btn = new android.widget.PopupWindow(layout, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT, android.widget.RelativeLayout.LayoutParams.WRAP_CONTENT); Btn.showAtLocation(ctx.getWindow().getDecorView(), android.view.Gravity.CENTER, 0, 0); } catch (e) { print(e); } } }));  } btn();"
+}
