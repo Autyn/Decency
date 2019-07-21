@@ -1,3 +1,5 @@
 {
-mod: "print('can get lol');"
+mod: "print('can get lol');",
+speed_on: "function _1(){ for(var i = 0; i < 406; i++){ Block.setFriction(i, 0.3)}}",
+speed_off: "function _2{for(var i = 0; i < 406; i++){ Block.setFriction(i, 0.6000000238418579)} Block.setFriction(79, .4); Block.setFriction(174, .4); Block.setFriction(207, .4); Block.setFriction(266, .4)}"
 }
