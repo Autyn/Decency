@@ -1,5 +1,4 @@
 {
 mod: "print('can get lol')",
-speed: "function speedBypass(){ for(var i = 0; i < 406; i++){ Block.setFriction(i, 0.4); } }; function resetSpeed() { for(var i = 0; i < 406; i++){ Block.setFriction(i, 0.6000000238418579); } Block.setFriction(79, .4); Block.setFriction(174, .4); Block.setFriction(207, .4); Block.setFriction(266, .4); }; this.state?(speedBypass()):(resetSpeed());",
-
+speed: "function speedBypass(){ for(var i = 0; i < 406; i++){ Block.setFriction(i, 0.4); } }; function resetSpeed() { for(var i = 0; i < 406; i++){ Block.setFriction(i, 0.6000000238418579); } Block.setFriction(79, .4); Block.setFriction(174, .4); Block.setFriction(207, .4); Block.setFriction(266, .4); }; this.state?(speedBypass()):(resetSpeed());"
 }
