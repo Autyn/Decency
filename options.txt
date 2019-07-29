@@ -1,4 +1,4 @@
-mp_username:§ed3
+mp_username:§evk.com/nofairplay
 game_difficulty_new:1
 game_thirdperson:0
 gfx_dpadscale:1
